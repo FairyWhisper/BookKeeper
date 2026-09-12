@@ -1,56 +1,92 @@
-# Welcome to your Expo app 👋
+# BookKeeper
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+BookKeeper App, cross platform Home Library Catalogue and Reading Companion App for learners and lovers of books
 
-## Get started
+## Project Status
 
-1. Install dependencies
+Early Development / Learning Project
 
-   ```bash
-   npm install
-   ```
+BookKeeper is a personal software development project created as part of my transition into software development and my Higher Diploma in Software Development.
+The application is currently in the early stages of development. At present it consists of a basic mobile application structure with navigation and foundational scaffolding in place.
+The project is being developed incrementally with a focus on learning, testing, reflection and continuous improvement.
 
-2. Start the app
+## Why BookKeeper Exists
 
-   ```bash
-   npx expo start
-   ```
+BookKeeper began with a simple problem.
+For many years I maintained a spreadsheet catalogue of my personal library. Over time that catalogue grew beyond a simple inventory of books and became a record of the stories connected to them.
+Many existing catalogue applications focus primarily on ownership, purchasing and collection management. While useful, they did not reflect the way I think about books and personal libraries.
+For me, books are more than items on a shelf.
+Books shape us, travel with us, are gifted to us, inherited from family members, discovered in unexpected places and sometimes become part of significant moments in our lives.
+BookKeeper exists to explore whether a catalogue can preserve not only information about books, but also information about the relationship between people and books.
 
-In the output, you'll find options to open the app in a
+## Vision
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+The long-term goal of BookKeeper is to create a library management and reading companion application that helps people:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- Organise personal and family libraries
+- Track reading journeys
+- Record meaningful information about individual books
+- Preserve personal and family stories connected to books
+- Create richer relationships between readers and their collections
 
-## Get a fresh project
+This vision will evolve as the project develops and as new requirements, ideas and lessons emerge.
 
-When you're ready, run:
+## Learning Goals
 
-```bash
-npm run reset-project
-```
+BookKeeper is also a learning project.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Through building BookKeeper I am learning:
 
-### Other setup steps
+- Mobile application development
+- Software design principles
+- User interface design
+- Databases and data modelling
+- Version control using Git and GitHub
+- Project planning and agile development practices
+- Testing and iterative development
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+The project intentionally prioritises learning and experimentation over rapid feature delivery.
 
-## Learn more
+## Current Development Stage
 
-To learn more about developing your project with Expo, look at the following resources:
+### Current progress includes
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- Project setup
+- Development environment configuration
+- Basic application structure
+- Screen navigation
+- Initial planning and project documentation
 
-## Join the community
+### Near-term goals include
 
-Join our community of developers creating universal apps.
+- Continued Sprint 2 development
+- Data model exploration
+- User interface refinement
+- Testing across devices
+- Repository and documentation improvements
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Development Philosophy
+
+BookKeeper is being developed using an evidence-based and iterative approach.
+Ideas are tested, assumptions are challenged, and plans are revised when new information becomes available.
+Project decisions are documented and reviewed throughout development in order to improve both the application and the developer building it.
+
+## Project Journal
+
+A separate Project Journal accompanies this repository.
+
+The journal documents:
+
+- Major decisions
+- Development milestones
+- Lessons learned
+- Sprint reviews
+- Changes in direction
+- Technical and design challenges
+
+The purpose of the journal is to preserve the learning journey alongside the software itself.
+
+## About the Developer
+
+I am a mature student beginning a Higher Diploma in Software Development after a previous academic and professional background in science.
+BookKeeper represents both a software project and a learning journey as I develop the skills required to become an effective software developer.
